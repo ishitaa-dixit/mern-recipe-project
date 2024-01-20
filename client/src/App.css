@@ -69,7 +69,7 @@ a {
   font-size: 25px;
 }
 
-.create-recipe {
+.create-recipe{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -85,6 +85,7 @@ a {
   display: flex;
   flex-direction: column;
 }
+
 ul {
   list-style: none;
   padding: 0;
